@@ -191,5 +191,4 @@ For more information on disassembling bytecode and understanding code obfuscatio
 
 Keep exploring and unraveling the mysteries of code!
 
-*[Author Name]*  
-*[Date]*
+
