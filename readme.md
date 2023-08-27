@@ -159,6 +159,11 @@ print(ran)
 print(dis.dis(ran))
 ```
 
+### Final Output
+If everything went well, you should be met with something that looks like this in CLI, showing the decoded functions
+![Frame 1t](https://github.com/autumnlikescode/Decode-Pyfuscate/assets/102363146/c7fdeb73-7a88-414c-92d8-b96132fd7147)
+
+
 ### Additional Resources
 
 For more information on disassembling bytecode and understanding code obfuscation, check out the following resources:
